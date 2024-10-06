@@ -61,9 +61,9 @@ work:
     summary: |2-
       Responsibilities include:
       - Implemented 'FaceNet' Face Recognition Model
-      - Presented results in daily research meetings
+      - Presented results in weekly research meetings
   - position: Machine Learning Intern
-    company_name: X
+    company_name: NeST Cyber Campus
     company_url: ''
     company_logo: ''
     date_start: 2023-03-23
@@ -81,25 +81,29 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: SQL
         description: ''
-        percent: 30
-        icon: devicon/rstudio
-      - name: PyTorch
+        percent: 70
+        icon: devicon/sqlite
+      - name: C++
         description: ''
-        percent: 20
-        icon: devicon/pytorch
+        percent: 50
+        icon: devicon/c++
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Chess
+      - name: Playing Chess
         description: ''
         percent: 30
         icon:
-      - name: Books
+      - name: Reading Books
         description: ''
         percent: 20
+        icon:
+      - name: Watching Series and Movies
+        description: ''
+        percent: 30
         icon:
 
 languages:
