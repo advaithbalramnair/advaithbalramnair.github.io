@@ -88,7 +88,7 @@ skills:
       - name: C++
         description: ''
         percent: 50
-        icon: devicon/c++
+        icon: devicon/cplusplus
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -129,4 +129,4 @@ awards:
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 ---
 
-I am a final year B.Tech student of Artificial Intelligence and Data Science in RSET, Kochi.
+I am a final year B.Tech student of Artificial Intelligence and Data Science in RSET, Kochi. My interests include Deep Learning especially in Natural Language Processing.
